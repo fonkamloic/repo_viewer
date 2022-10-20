@@ -1,0 +1,7 @@
+# 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
+
+
+GET https://api.github.com/user/starred?page=1
+Authorization: bearer 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
+
+GET https://api.github.com/use
